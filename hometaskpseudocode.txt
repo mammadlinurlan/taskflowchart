@@ -1,0 +1,17 @@
+
+   Start
+   Input m
+if(m>=0 && m<=100)
+   if(m>=91 && m<=100)
+            print "A"
+   else if(m>=81 && m<=90)
+         print "B"
+   else if(m>=71 && m<=80)
+         print "C"
+   else if(m>=61 && m<=70)
+         print "D"
+   else if(m>=51 && m<=60)
+         print "E"
+   else print "kesildiniz"
+else print "Düzgün ədəd daxil edin"
+End
